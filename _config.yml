@@ -1,28 +1,40 @@
-name: orchard house
+layout_spectrum: 0.6829787
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.9695472230669111
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: orchard house
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.25
+  saturation: 0.4880719056818634
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.25
   lightness: 0.1727360205259174
-  saturation: 0.4880719056818634
   rhythmicContrast: 0.5079154507257044
-purpose: []
+typography_spectrum: 0.9695472230669111
