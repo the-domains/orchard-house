@@ -1,6 +1,6 @@
 name: orchard house
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.22993
 typography_spectrum: 0.88979
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#46735e'
     - '#234429'
     - '#c0c3bc'
-  brandStrength: 0.5625
-  lightness: 0.5625
-  saturation: 0.4880719056818634
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
